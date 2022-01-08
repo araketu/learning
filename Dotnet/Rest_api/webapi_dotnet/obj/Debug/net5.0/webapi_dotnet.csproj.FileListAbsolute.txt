@@ -10,7 +10,6 @@
 /Users/arktMAc/Documents/foo/learning/Dotnet/Rest_api/webapi_dotnet/bin/Debug/net5.0/Swashbuckle.AspNetCore.Swagger.dll
 /Users/arktMAc/Documents/foo/learning/Dotnet/Rest_api/webapi_dotnet/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll
 /Users/arktMAc/Documents/foo/learning/Dotnet/Rest_api/webapi_dotnet/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll
-/Users/arktMAc/Documents/foo/learning/Dotnet/Rest_api/webapi_dotnet/obj/Debug/net5.0/webapi_dotnet.csproj.AssemblyReference.cache
 /Users/arktMAc/Documents/foo/learning/Dotnet/Rest_api/webapi_dotnet/obj/Debug/net5.0/webapi_dotnet.GeneratedMSBuildEditorConfig.editorconfig
 /Users/arktMAc/Documents/foo/learning/Dotnet/Rest_api/webapi_dotnet/obj/Debug/net5.0/webapi_dotnet.AssemblyInfoInputs.cache
 /Users/arktMAc/Documents/foo/learning/Dotnet/Rest_api/webapi_dotnet/obj/Debug/net5.0/webapi_dotnet.AssemblyInfo.cs
