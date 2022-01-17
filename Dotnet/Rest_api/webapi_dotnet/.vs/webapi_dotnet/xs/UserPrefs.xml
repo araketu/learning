@@ -1,23 +1,25 @@
 ﻿<Properties StartupConfiguration="{6C53C4DF-EED2-40C5-8530-B60872B0F280}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Properties/launchSettings.json">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Controllers/PersonController.cs">
     <Files>
-      <File FileName="Controllers/CalculatorController.cs" Line="43" Column="29" />
-      <File FileName="Properties/launchSettings.json" Line="14" Column="29" />
+      <File FileName="Model/Person.cs" Line="17" Column="1" />
+      <File FileName="Startup.cs" Line="34" Column="1" />
+      <File FileName="Services/IPersonService.cs" Line="19" Column="9" />
+      <File FileName="Services/Implementations/PersonServiceImplementation.cs" Line="59" Column="1" />
+      <File FileName="Controllers/PersonController.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="webapi_dotnet" expanded="True">
             <Node name="webapi_dotnet" expanded="True">
-              <Node name="Dependencies" expanded="True">
-                <Node name="FrameworkReferences" expanded="True" />
-                <Node name="PackageDependencies" expanded="True" />
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Controllers" expanded="True">
+                <Node name="PersonController.cs" selected="True" />
               </Node>
-              <Node name="Controllers" expanded="True" />
-              <Node name="Properties" expanded="True">
-                <Node name="launchSettings.json" selected="True" />
+              <Node name="Model" expanded="True" />
+              <Node name="Services" expanded="True">
+                <Node name="Implementations" expanded="True" />
               </Node>
-              <Node name="appsettings.json" expanded="True" />
             </Node>
           </Node>
         </State>

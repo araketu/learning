@@ -24,3 +24,4 @@
 /Users/arktMAc/Documents/foo/learning/Dotnet/Rest_api/webapi_dotnet/obj/Debug/net5.0/ref/webapi_dotnet.dll
 /Users/arktMAc/Documents/foo/learning/Dotnet/Rest_api/webapi_dotnet/obj/Debug/net5.0/webapi_dotnet.pdb
 /Users/arktMAc/Documents/foo/learning/Dotnet/Rest_api/webapi_dotnet/obj/Debug/net5.0/webapi_dotnet.genruntimeconfig.cache
+/Users/arktMAc/Documents/foo/learning/Dotnet/Rest_api/webapi_dotnet/obj/Debug/net5.0/webapi_dotnet.csproj.AssemblyReference.cache

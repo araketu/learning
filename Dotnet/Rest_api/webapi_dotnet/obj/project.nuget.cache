@@ -1,15 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "j8s5LXlPIIrXDpehH2r86g0coUZMVZ1uBtsjotGY27tiDN2fSyby5rIySHpxDT0ROtLuASBjfi38Y2T1/HU2yg==",
+  "dgSpecHash": "mqdICQQH2NCSn0W2p90N9L++6ynZQDqu1yRIw0cyA27B3OHqrv2vzMJ4RYATLQOs0Lr2XLkwcuttnlMvKTkF7Q==",
   "success": true,
   "projectFilePath": "/Users/arktMAc/Documents/foo/learning/Dotnet/Rest_api/webapi_dotnet/webapi_dotnet.csproj",
   "expectedPackageFiles": [
     "/Users/arktMAc/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "/Users/arktMAc/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
-    "/Users/arktMAc/.nuget/packages/swashbuckle.aspnetcore/5.6.3/swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
-    "/Users/arktMAc/.nuget/packages/swashbuckle.aspnetcore.swagger/5.6.3/swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
-    "/Users/arktMAc/.nuget/packages/swashbuckle.aspnetcore.swaggergen/5.6.3/swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
-    "/Users/arktMAc/.nuget/packages/swashbuckle.aspnetcore.swaggerui/5.6.3/swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512",
+    "/Users/arktMAc/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "/Users/arktMAc/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "/Users/arktMAc/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "/Users/arktMAc/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512",
     "/Users/arktMAc/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.13/microsoft.netcore.app.host.osx-x64.5.0.13.nupkg.sha512"
   ],
   "logs": []

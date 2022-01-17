@@ -11,6 +11,8 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using Microsoft.OpenApi.Models;
+using webapi_dotnet.Services;
+using webapi_dotnet.Services.Implementations;
 
 namespace webapi_dotnet
 {
@@ -27,9 +29,12 @@ namespace webapi_dotnet
         public void ConfigureServices(IServiceCollection services)
         {
 
+            // Dependency Injection
+            services.AddScoped<IPersonService, PersonServiceImplementation>();
+
             services.AddControllers();
             services.AddSwaggerGen(c =>
-            {
+            { 
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "webapi_dotnet", Version = "v1" });
             });
         }
